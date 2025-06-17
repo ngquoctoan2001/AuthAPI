@@ -2,8 +2,6 @@
 using Application.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Application.DTOs;
-using Application.Services;
 
 namespace WebAPI.Controllers;
 [ApiController]
